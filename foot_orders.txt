@@ -1,0 +1,5 @@
+Foot Orders
+Invoice
+Custmer: Medo
+Item: Pizza - Quantity: 1 - Price: 35 - Total: 35
+==============================
